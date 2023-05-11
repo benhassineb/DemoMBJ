@@ -10,7 +10,6 @@ function Home() {
         https://mobilijeune.actionlogement.fr/faq<br></br>
         https://www.actionlogement.fr/l-aide-mobili-jeune<br></br>
         <br></br>
-      
         <b>En enrichissant les données fournies et en les rendant plus précises et plus pertinentes, on peut améliorer significativement la qualité des réponses.</b>
       </text>
 
